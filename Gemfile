@@ -12,5 +12,5 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 	gem 'sqlite3,'  '~> 1.3.6'
-	gen 'tux'
+	gem 'tux'
 end
